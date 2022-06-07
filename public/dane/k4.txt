@@ -1,0 +1,59 @@
+<div id="zamiana">
+                    <!-- Featured blog post-->
+                    <div class="card mb-4">
+                        <a href="#!"><img class="card-img-top" src="zdjęcia/furia/furia1.jpg" alt="..." /></a>
+                        <div class="card-body">
+                            <div class="small text-muted">15 października 2014</div>
+                            <h2 class="card-title">Furia</h2>
+                            <p class="card-text">Kwiecień 1945 roku. Alianckie wojska rozgromiły niemiecką armię w Ardenach i maszerują wprost na Berlin. Znany z odwagi, zahartowany w boju dowódca czołgu pieszczotliwie nazywanego Furia, sierżant Wardaddy otrzymuje zadanie specjalne. Wraz ze swoją załogą będzie musiał wykonać tajną misję za linią frontu i stawić czoła znacznie potężniejszym siłom wroga.</p>
+                            <a class="btn btn-primary" id="s25" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                        </div>
+                    </div>
+                    <!-- Nested row for non-featured blog posts-->
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <!-- Blog post-->
+                            <div class="card mb-4">
+                                <a href="#!"><img class="card-img-top" src="zdjęcia/snajper/snajper1.jpg" alt="..." /></a>
+                                <div class="card-body">
+                                    <div class="small text-muted">11 listopada 2014</div>
+                                    <h2 class="card-title h4">Snajper</h2>
+                                    <p class="card-text">Chris Kyle zostaje wysłany do Iraku w jednym celu – ma chronić innych uczestników misji. Dzięki niezwykle celnym strzałom na polu walki ratuje życie wielu żołnierzom, a w miarę jak wiadomość o jego odwadze się roznosi, zyskuje pseudonim „Legenda”. Jego sława dociera również poza linię wroga. Pozbycie się Kyle’a zaczyna być najważniejszym celem rebeliantów, którzy wyznaczają nagrodę za jego głowę. Innego rodzaju bitwę toczy na własnym, rodzinnym froncie: choć przebywa na drugim końcu świata, stara się być dobrym mężem i ojcem.</p>
+                                    <a class="btn btn-primary" id="s26" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                                </div>
+                            </div>
+                            <!-- Blog post-->
+                            <div class="card mb-4">
+                                <a href="#!"><img class="card-img-top" src="zdjęcia/bekarty/bekarty1.jpg" alt="..." /></a>
+                                <div class="card-body">
+                                    <div class="small text-muted">20 maja 2009</div>
+                                    <h2 class="card-title h4">Bękarty wojny</h2>
+                                    <p class="card-text">Akcja rozpoczyna się w okupowanej przez Niemców Francji, gdzie Shosanna Dreyfus jest świadkiem egzekucji swojej rodziny z rozkazu nazistowskiego pułkownika Hansa Landy. Cudem unikając śmierci, Shosanna ucieka do Paryża, gdzie przyjmuje nową tożsamość, jako właścicielka i operatorka niewielkiego kina. Tymczasem, gdzieś w Europie, porucznik Aldo Raine organizuje elitarną grupę żydowskich żołnierzy, których zadaniem ma być krwawy odwet na nazistach.</p>
+                                    <a class="btn btn-primary" id="s27" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <!-- Blog post-->
+                            <div class="card mb-4">
+                                <a href="#!"><img class="card-img-top" src="zdjęcia/szyfry/szyfry1.jpg" alt="..." /></a>
+                                <div class="card-body">
+                                    <div class="small text-muted">14 czerwca 2002</div>
+                                    <h2 class="card-title h4">Szyfry wojny</h2>
+                                    <p class="card-text">Akcja filmu rozgrywa się w czasach II wojny światowej. Podczas bitwy o Saipan sierżant Joe Enders otrzymuje rozkaz chronienia szyfranta Bena Yahzee – młodego Indianina z plemienia Nawaho. Język Nawaho używany do przesyłania zaszyfrowanych wiadomości był jedynym kodem, którego wrogowi nie udało się złamać. Dlatego też dalsza część rozkazu otrzymanego przez Endersa brzmiała, że jeżeli zaistnieje jakiekolwiek niebezpieczeństwo, że szyfrant wpadnie w ręce wroga Enders musi chronić kod „za wszelką cenę”.</p>
+                                    <a class="btn btn-primary" id="s28" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                                </div>
+                            </div>
+                            <!-- Blog post-->
+                            <div class="card mb-4">
+                                <a href="#!"><img class="card-img-top" src="zdjęcia/harbor/harbor1.jpg" alt="..." /></a>
+                                <div class="card-body">
+                                    <div class="small text-muted">21 maja 2001</div>
+                                    <h2 class="card-title h4">Pearl Harbor</h2>
+                                    <p class="card-text">Rafe i Danny są przyjaciółmi, którzy służą w lotnictwie. Rafe zakochuje się z wzajemnością w pięknej pielęgniarce ze szpitala wojskowego Evelyn. Mężczyzna zostaje jednak wysłany do Europy, aby wziąć udział w bitwie o Anglię. Wkrótce przychodzi wiadomość o jego śmierci. Zrozpaczeni Evelyn i Danny zostają przeniesieni do Pearl Harbor na Hawajach.</p>
+                                    <a class="btn btn-primary" id="s29" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>

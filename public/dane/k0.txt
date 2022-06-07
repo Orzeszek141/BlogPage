@@ -1,0 +1,59 @@
+<div id="zamiana">
+                    <!-- Featured blog post-->
+                    <div class="card mb-4">
+                        <a href="#!"><img class="card-img-top" src="zdjęcia/mike/mike1.jpg" alt="..." /></a>
+                        <div class="card-body">
+                            <div class="small text-muted">17 listopada 2009</div>
+                            <h2 class="card-title">Wielki Mike. The Blind Side</h2>
+                            <p class="card-text">"Wielki Mike. The Blind Side" jest filmem opartym o powieść Michaela Lewisa "The Blind Side: Evolution of the game" opowiadającej o życiu Michaela Ohera. Jest to historia o wywodzącym się ze slumsów czarnoskórym potężnie zbudowanym chłopaku, którym zaopiekowała się rodzina Tuohy. Na początku szczególnie zaangażowana była matka Leigh Anne i najmłodszy syn – Sean Junior. Z czasem cała rodzina akceptuje Mike’a i traktuje go, jak syna i brata.</p>
+                            <a class="btn btn-primary" id="s5" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                        </div>
+                    </div>
+                    <!-- Nested row for non-featured blog posts-->
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <!-- Blog post-->
+                            <div class="card mb-4">
+                                <a href="#!"><img class="card-img-top" src="zdjęcia/nietykalni/nietyk1.jpg" alt="..." /></a>
+                                <div class="card-body">
+                                    <div class="small text-muted">23 września 2011</div>
+                                    <h2 class="card-title h4">Nietykalni</h2>
+                                    <p class="card-text">Dzieło Oliviera Nakache i Erica Toledano opowiada o sparaliżowanym na skutek wypadku milionerze, który zatrudnia młodego chłopaka z przedmieścia jako opiekuna. Driss, który jest imigrantem, właśnie wyszedł z więzienia. Może się wydawać, że nie jest odpowiednim kandydatem na to stanowisko; co więcej - zależy mu na tym, by go nie dostać. Philippe zauważa jednak w chłopaku coś, co odróżniało go od reszty kandydatów – szczerość. Zderzenie tych dwóch zupełnie odrębnych światów oddziałuje pozytywnie na obie postaci i daje też początek pięknej przyjaźni.</p>
+                                    <a class="btn btn-primary" id="s6" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                                </div>
+                            </div>
+                            <!-- Blog post-->
+                            <div class="card mb-4">
+                                <a href="#!"><img class="card-img-top" src="zdjęcia/wilk/wilk1.jpg" alt="..." /></a>
+                                <div class="card-body">
+                                    <div class="small text-muted">17 grudnia 2013</div>
+                                    <h2 class="card-title h4">Wilk z Wall Street</h2>
+                                    <p class="card-text">"Wilk z Wall Street" to aktorskie Tour De Force Leonardo DiCaprio – dowód na jego charyzmę oraz skalę i rozpiętość talentu. W jednej scenie gwiazdor potrafi być zarazem magnetycznym przywódcą stada i żałosnym narkomanem, komediantem i ofiarą losu. DiCaprio dzielnie sekundują Jonah Hill w roli jego odrobinę psychopatycznego najbliższego współpracownika, Jean Dujardin jako chytry szwajcarski bankier i Kyle Chandler wcielający się w nieustępliwego agenta FBI.</p>
+                                    <a class="btn btn-primary" id="s7" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <!-- Blog post-->
+                            <div class="card mb-4">
+                                <a href="#!"><img class="card-img-top" src="zdjęcia/pianista/pianista1.jpg" alt="..." /></a>
+                                <div class="card-body">
+                                    <div class="small text-muted">24 maja 2002</div>
+                                    <h2 class="card-title h4">Pianista</h2>
+                                    <p class="card-text">"Pianista" powstał na podstawie wspomnień żydowskiego muzyka - Władysława Szpilmana. Tragiczne losy postaci, zainspirowały Romana Polańskiego i Ronalda Harwoode'a do stworzenia obszernej kompozycji filmowej, w dużej mierze autobiograficznej lecz jednocześnie ukazującej w obiektywny sposób bolesny rozdział w polskiej historii. Niemalże trzygodzinny film, zyskał dużą popularność wśród odbiorców i krytyki. Został wyróżniony Złotą Palmą - prestiżową nagrodą festiwalu w Cannes.</p>
+                                    <a class="btn btn-primary" id="s8" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                                </div>
+                            </div>
+                            <!-- Blog post-->
+                            <div class="card mb-4">
+                                <a href="#!"><img class="card-img-top" src="zdjęcia/bohemian/bohemian1.jpg" alt="..." /></a>
+                                <div class="card-body">
+                                    <div class="small text-muted">23 października 2018</div>
+                                    <h2 class="card-title h4">Bohemian Rhapsody</h2>
+                                    <p class="card-text">Twórcy Bohemian Rhapsody w dwugodzinnej fabularnej pigułce próbowali zamknąć wydarzenia z 15 lat – od początków Queen aż po legendarny występ podczas koncertu charytatywnego Live Aid na londyńskim stadionie Wembley. Obserwujemy narodziny wielkich muzycznych hitów z repertuaru grupy, sukcesy i kryzysy zespołu… A przede wszystkim życie Freddiego Mercury’ego – urodzonego w Zanzibarze syna indyjskich zaratusztrian, chłopaka z nadliczbowymi siekaczami, który zaczynał od przerzucania walizek na lotnisku Heathrow, by potem nieustająco sięgać po więcej, niż oferowało mu życie.</p>
+                                    <a class="btn btn-primary" id="s9" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>

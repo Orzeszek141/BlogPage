@@ -1,0 +1,52 @@
+<div id="zamiana">
+                    <!-- Post content-->
+                    <article>
+                        <!-- Post header-->
+                        <header class="mb-4">
+                            <!-- Post title-->
+                            <h1 class="fw-bolder mb-1">Bękarty Wojny</h1>
+                            <!-- Post meta content-->
+                            <div class="text-muted fst-italic mb-2">Premiera: 20 maja 2009</div>
+                            <!-- Post categories-->
+                            <a class="badge bg-secondary text-decoration-none link-light" href="#!" onclick="z_cat('k4')">Wojenny </a>
+                        </header>
+                        <!-- Preview image figure-->
+<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="zdjęcia/bekarty/bekarty2.jpg" width="900" height="500" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="zdjęcia/bekarty/bekarty3.jpg" width="900" height="500" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="zdjęcia/bekarty/bekarty4.jpg" width="900" height="500" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+                        <!-- Post content-->
+                        <section class="mb-5">
+                            <p class="fs-5 mb-4">Już pierwsze ujęcia (pięknie zilustrowane przez westernowy utwór Ennio Morricone i silnie inspirowane kinem Sergio Leone) ustawiają dość wysoką poprzeczkę dla całego obrazu. W otwierającej scenie (będącej jednocześnie pierwszym rozdziałem filmu) mamy do czynienia z przesłuchiwaniem przez niemieckiego Pułkownika SS Hansa Landę francuskiego farmera (podejrzanego o ukrywanie żydowskiej rodziny). Owy pierwszy rozdział jest także swoistym wstępem do tego, z jakim schwartzcharekterem będą się zmagać w dalszej części nasi pozytywni bohaterowie. Zdecydowanie nie byle jakim! Landa (w którego wciela się kompletnie nieznany austriacki aktor telewizyjny Christoph Waltz) już od pierwszych sekund na ekranie całkowicie przykuwa uwagę widza. Nie tylko dlatego, że jest po mistrzowsku napisaną postacią (najlepszą w karierze Tarantino, co zresztą bez ogródek przyznaje sam reżyser) ale także dlatego, iż Waltz obdarzył ją niesamowitą charyzmą i ekranowym magnetyzmem.</p>
+                            <p class="fs-5 mb-4">Jego Landa nie jest ani płaski ani jednowymiarowy – wręcz przeciwnie. Prezentuje bardzo zróżnicowany wachlarz emocji: od psychotycznych po czysto komiczne. Taka skrajność powoduje, że nigdy nie wiadomo, czego się po nim spodziewać. Raz jest typowym filmowym 'zimnym' esesmanem, by następnie niespodziewanie zmienić się w 'dobrego wujka' Hansa. Inteligentny, szarmancki, przebiegły i zabawny.</p>
+                            <p class="fs-5 mb-4">en najbardziej wygadany (i to aż w czterech językach!) tarantinowski twór nie tylko kradnie każdą scenę w której się pojawia, ale tak naprawdę 'rządzi' w całym filmie! Landa Waltza śmiało może konkurować z Hannibalem Hopkinsa czy Jokerem Ledgera – ikonami z bad boyowego podwórka, które się jednocześnie kocha i nienawidzi.</p>
+                            <h2 class="fw-bolder mb-4 mt-5">Obsada</h2>
+			<p class="row">
+                            <img class="col-4"  src="zdjęcia/bekarty/p1.jpg" alt="...">
+			    <img class="col-4" src="zdjęcia/bekarty/p2.jpg" alt="...">
+			    <img class="col-4" src="zdjęcia/bekarty/p3.jpg" alt="...">
+                        </p>
+			<p class="row">
+			<span class="col-md-4 col-4">Eli Roth</span>
+			<span class="col-md-4 col-4">Christoph Waltz</span>
+			<span class="col-md-4 col-4">Michael Fassbender</span></p>
+                        </section>
+                    </article>
+</div>

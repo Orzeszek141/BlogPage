@@ -1,0 +1,59 @@
+<div id="zamiana">
+                    <!-- Featured blog post-->
+                    <div class="card mb-4">
+                        <a href="#!"><img class="card-img-top" src="zdjęcia/infinitywar/infinitywar1.png" alt="..." /></a>
+                        <div class="card-body">
+                            <div class="small text-muted">23 kwietnia 2018</div>
+                            <h2 class="card-title">Avengers: Wojna bez granic</h2>
+                            <p class="card-text">Jeden z dwóch kluczowych tytułów, które zadecydowało o kształcie Marel Cinematic Universe, jaki znamy z najnowszego Spider-Mana, WandaVision czy Falcon i Zimowy żołnierz. Spektakularne starcie na śmierć i życie, obejmujące cały świat bohaterów Marvel Studios. Avengersi ramię w ramię z superbohaterami muszą być gotowi poświęcić wszystko, jeśli chcą pokonać potężnego Thanosa, zanim jego plan zniszczenia obróci wszechświat w ruiny.</p>
+                            <a class="btn btn-primary" id="s10" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                        </div>
+                    </div>
+                    <!-- Nested row for non-featured blog posts-->
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <!-- Blog post-->
+                            <div class="card mb-4">
+                                <a href="#!"><img class="card-img-top" src="zdjęcia/batman/batman1.webp" alt="..." /></a>
+                                <div class="card-body">
+                                    <div class="small text-muted">16 czerwiec 1992</div>
+                                    <h2 class="card-title h4">Powrót Batmana</h2>
+                                    <p class="card-text">Kontynuacja dzieła z 1989 roku wprowadziła na ekrany takie postacie jak Pingwin oraz Kobieta Kot i zachowała mroczny i komiksowy klimat poprzedniczki. Scenografia ciemnych zakamarków Gotham została jeszcze lepiej dopracowana, a kostiumy nie raziły już tak mocno swoją pozorną kiczowatością. Świetny scenariusz, znakomicie dobrana obsada i przede wszystkim rozbudowane postacie.</p>
+                                    <a class="btn btn-primary" id="s11" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                                </div>
+                            </div>
+                            <!-- Blog post-->
+                            <div class="card mb-4">
+                                <a href="#!"><img class="card-img-top" src="zdjęcia/civilwar/civilwar1.jpg" alt="..." /></a>
+                                <div class="card-body">
+                                    <div class="small text-muted">12 kwietnia 2016</div>
+                                    <h2 class="card-title h4">Kapitan Ameryka: Wojna Bohaterów</h2>
+                                    <p class="card-text">Po co komu czarny charakter, skoro można postawić przeciwko sobie dwóch superbohaterów? Druga kontynuacja Kapitan Ameryka: Pierwsze Starcie okazała się najlepszym jak dotąd filmem Marvel Studios, na co gorąco liczyliśmy. Team Iron Man vs Team Cap, a na deser wprowadzenie takich postaci jak Spider-Man, Black Pather oraz Baron Zemo do Marvel Cinematic Universe! Dojrzała i złożona fabuła, pojedynki które wgniatają w fotel i rewelacyjnie przedstawieni bohaterowie!</p>
+                                    <a class="btn btn-primary" id="s12" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <!-- Blog post-->
+                            <div class="card mb-4">
+                                <a href="#!"><img class="card-img-top" src="zdjęcia/endgame/endgame1.jpeg" alt="..." /></a>
+                                <div class="card-body">
+                                    <div class="small text-muted">10 kwietnia 2019</div>
+                                    <h2 class="card-title h4">Avengers: Koniec gry</h2>
+                                    <p class="card-text">Wielkie zwieńczenie wojny z Szalonym Tytanem równie dobrze mogłoby być na równie z drugą pozycją, ale jednak poprzednikowi przyznajemy punkty za wrażenia artystyczne. W zeszłorocznym Avengers: Wojna bez granic tytułowa grupa superbohaterów stawiła czoła Thanosowi. Herosi mieli na celu udaremnienie planu złoczyńcy polegającego na wymazaniu połowy populacji wszechświata za pomocą kamieni nieskończoności. Z ekranu wielokrotnie padną słynne słowa, przypisywane każdej z postaci i konkretnie z nimi związane, ale podane w nowym kontekście, dzięki czemu spinające całą, wielo-filmową opowieść w piękną, spójną całość</p>
+                                    <a class="btn btn-primary" id="s13" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                                </div>
+                            </div>
+                            <!-- Blog post-->
+                            <div class="card mb-4">
+                                <a href="#!"><img class="card-img-top" src="zdjęcia/darkknight/darkknight1.jpg" alt="..." /></a>
+                                <div class="card-body">
+                                    <div class="small text-muted">14 lipca 2008</div>
+                                    <h2 class="card-title h4">Mroczny Rycerz</h2>
+                                    <p class="card-text">Druga część trylogii człowieka-nietoperza po dziś dzień pozostaje niedoścignioną pozycją, która przedefiniowała świat filmowych superbohaterów oraz wizerunek samego Batmana. Hiperrealistyczny thriller sensacyjny, którym jest Mroczny Rycerz, to głębokie, przemyślane dzieło, wolne od popcornowego banału i schematycznych rozwiązań.</p>
+                                    <a class="btn btn-primary" id="s14" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>

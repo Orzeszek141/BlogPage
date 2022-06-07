@@ -1,0 +1,52 @@
+<div id="zamiana">
+                    <!-- Post content-->
+                    <article>
+                        <!-- Post header-->
+                        <header class="mb-4">
+                            <!-- Post title-->
+                            <h1 class="fw-bolder mb-1">Kapitan Ameryka: Wojna Bohaterów</h1>
+                            <!-- Post meta content-->
+                            <div class="text-muted fst-italic mb-2">Premiera: 12 kwietnia 2016</div>
+                            <!-- Post categories-->
+                            <a class="badge bg-secondary text-decoration-none link-light" href="#!" onclick="z_cat('k1')">Superbohaterski </a>
+                        </header>
+                        <!-- Preview image figure-->
+<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="zdjęcia/civilwar/civilwar2.jpg" width="900" height="500" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="zdjęcia/civilwar/civilwar3.jpg" width="900" height="500" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="zdjęcia/civilwar/civilwar4.jpg" width="900" height="500" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+                        <!-- Post content-->
+                        <section class="mb-5">
+                            <p class="fs-5 mb-4">Kapitan Ameryka: Wojna Bohaterów to kontynuacja historii opowiedzianej w drugim filmie, którego bohaterem był Steve Rogers (Chris Evans). W Zimowym Żołnierzu stawiał czoła swojemu przyjacielowi sprzed lat, któremu organizacja Hydra wyprała mózg i zmusiła do posłusznego wykonywania rozkazów. Tu historię poznajemy, w momencie gdy kierowani przez niego Avengers polują na Crossbones’a (Frank Grillo). W komiksach był on jednym z ciekawszych i potężniejszych superzłoczyńców. Tutaj niestety jego rola jest wyłącznie epizodyczna.</p>
+                            <p class="fs-5 mb-4">Szybko bowiem przechodzimy do poważniejszego wątku. W wyniku akcji giną kolejni cywile, a politycy biorą na celownik superbohaterów. Avengers mieliby od tej pory działać pod egidą ONZ, na co przystaje targany wyrzutami sumienia Tony Stark (Robert Downey Jr). I tu dochodzi do rozłamu, bo Kapitan Ameryka nie zgadza się na założenie politycznych kajdanów. Grupa dzieli się na dwa obozy. Tymczasem pojawia się wspomniany Zimowy Żołnierz, czyli Bucky Barnes (Sebastian Stan), który znowu sieje zamęt i spustoszenie. Na domiar złego Avengers mają innego przeciwnika, Helmuta Zemo, który kieruje się niejasnymi metodami i nie przebiera w środkach.</p>
+                            <p class="fs-5 mb-4">Wprowadzenie do historii nie jest najlepsze. Ba, sama pierwsza scena, a także cały wątek walki z Crossbones’em trochę rozczarowują. Brakuje tutaj choćby odrobiny świeżości – to wszystko już widzieliśmy w Czasie Ultrona i poprzednich filmach z superbohaterami. Potem film zaczyna nabierać rumieńców, ale tu również pojawiają się momenty przestoju. Wydłużające się dialogi bohaterów nie byłyby niczym negatywnym, gdyby nie naiwne motywacje. Genialny, zawsze racjonalnie myślący Tony Stark niemal przez cały film kieruje się wyłącznie emocjami, dokonuje błędnych ocen, nie analizuje sytuacji i postępuje pochopnie. Brakuje mu przy tym pazura – znany z kąśliwych komentarzy megaloman ustąpił tutaj posępnemu zgorzknialcowi. Kapitan Ameryka jest bardziej wiarygodny, ale i w tej kreacji widać kilka braków. </p>
+                            <h2 class="fw-bolder mb-4 mt-5">Obsada</h2>
+			<p class="row">
+                            <img class="col-4"  src="zdjęcia/civilwar/p1.jpg" alt="...">
+			    <img class="col-4" src="zdjęcia/civilwar/p2.jpg" alt="...">
+			    <img class="col-4" src="zdjęcia/civilwar/p3.jpg" alt="...">
+                        </p>
+			<p class="row">
+			<span class="col-md-4 col-4">Chris Evans</span>
+			<span class="col-md-4 col-4">Robert Downey Jr.</span>
+			<span class="col-md-4 col-4">Sebastian Stan</span></p>
+                        </section>
+                    </article>
+</div>

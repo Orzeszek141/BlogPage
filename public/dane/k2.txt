@@ -1,0 +1,59 @@
+<div id="zamiana">
+                    <!-- Featured blog post-->
+                    <div class="card mb-4">
+                        <a href="#!"><img class="card-img-top" src="zdjęcia/samiswoi/samiswoi1.jpg" alt="..." /></a>
+                        <div class="card-body">
+                            <div class="small text-muted">15 września 1967</div>
+                            <h2 class="card-title">Sami swoi</h2>
+                            <p class="card-text">"Sami swoi" to pierwsza część doskonałej i prześmiesznej trylogii Sylwestra Chęcińskiego, przedstawiającej perypetie zwaśnionych rodzin Karguli i Pawlaków, skazanych na swoje sąsiedztwo. Konflikt rodzin, a zarazem ich wzajemna sympatia, będąca wynikiem wielopokoleniowego sąsiedztwa, są doskonałym źródłem komizmu, który dodatkowo wzmaga antagonizm w wyglądzie głów rodzin.</p>
+                            <a class="btn btn-primary" id="s15" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                        </div>
+                    </div>
+                    <!-- Nested row for non-featured blog posts-->
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <!-- Blog post-->
+                            <div class="card mb-4">
+                                <a href="#!"><img class="card-img-top" src="zdjęcia/swistak/swistak1.jpg" alt="..." /></a>
+                                <div class="card-body">
+                                    <div class="small text-muted">12 luty 1993</div>
+                                    <h2 class="card-title h4">Dzień Świstaka</h2>
+                                    <p class="card-text">Zgorzkniały prezenter telewizyjnej prognozy pogody, Phil, wyjeżdża do miasteczka Punxsutawney, żeby relacjonować coroczne Święto Świstaka - przepowiadające nadejście kolejnej wiosny. Wieczorem dochodzi do wniosku, że to najgorszy dzień w jego życiu. Kiedy budzi się następnego ranka, z przerażeniem stwierdza, że znów jest ten sam dzień. Okazuje się że dla Phila czas stanął w miejscu i nie zamierza ruszyć.</p>
+                                    <a class="btn btn-primary" id="s16" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                                </div>
+                            </div>
+                            <!-- Blog post-->
+                            <div class="card mb-4">
+                                <a href="#!"><img class="card-img-top" src="zdjęcia/forrest/forrest1.jpg" alt="..." /></a>
+                                <div class="card-body">
+                                    <div class="small text-muted">23 czerwca 1994</div>
+                                    <h2 class="card-title h4">Forrest Gump</h2>
+                                    <p class="card-text">Film opowiada o losach tytułowego Forresta Gumpa (w tej roli rewelacyjny Tom Hanks), prostego, niezbyt mądrego człowieka, który pragnie tylko miłości swojej najlepszej przyjaciółki Jenny oraz dotrzymania złożonych obietnic. Film to jakby wspomnienia bohatera, który przypadkowym ludziom w parku opowiada całe swoje życie. Na początku dowiadujemy się - oczywiście - o dzieciństwie bohatera. Już wtedy jego życie nie było proste, bo musiał zmierzać się z przeciwnościami losu.</p>
+                                    <a class="btn btn-primary" id="s17" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <!-- Blog post-->
+                            <div class="card mb-4">
+                                <a href="#!"><img class="card-img-top" src="zdjęcia/kac/kac1.jpg" alt="..." /></a>
+                                <div class="card-body">
+                                    <div class="small text-muted">30 maja 2009</div>
+                                    <h2 class="card-title h4">Kac Vegas</h2>
+                                    <p class="card-text">Fantastyczna czwórka przyjaciół udaje się do Las Vegas, aby wyszaleć się z okazji ślubu Douga. Wieczór kawalerski rozpoczyna się alkoholowym koktajlem różności na hotelowym dachu. To będzie niezapomniana noc i ciężka przeprawa dla wątroby każdego z nich. Po upojnie spędzonej nocy, imprezowicze budzą się w swoim pokoju ale nie wszyscy. Brakuje Douga, Stu nie ma zęba, Phil prawdopodobnie w nocy był hospitalizowany, a pan młody… zniknął. Imprezowicze próbują cofnąć się w czasie i zamknąć niewyjaśnione wątki</p>
+                                    <a class="btn btn-primary" id="s18" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                                </div>
+                            </div>
+                            <!-- Blog post-->
+                            <div class="card mb-4">
+                                <a href="#!"><img class="card-img-top" src="zdjęcia/praktykant/praktykant1.jpg" alt="..." /></a>
+                                <div class="card-body">
+                                    <div class="small text-muted">21 września 2015</div>
+                                    <h2 class="card-title h4">Praktykant</h2>
+                                    <p class="card-text">Już w pierwszych scenach poznajemy uroczego 70-letniego wdowca Bena (Robert De Niro), który w czasach emerytalnych próbował już wszystkiego. Nic jednak nie jest w stanie wypełnić pustki po utracie ukochanej żony. Ben desperacko poszukuje nowego zajęcia, które pomogłoby mu w zredukować ilość wolnego czasu.</p>
+                                    <a class="btn btn-primary" id="s19" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>

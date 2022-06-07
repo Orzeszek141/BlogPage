@@ -1,0 +1,52 @@
+<div id="zamiana">
+                    <!-- Post content-->
+                    <article>
+                        <!-- Post header-->
+                        <header class="mb-4">
+                            <!-- Post title-->
+                            <h1 class="fw-bolder mb-1">Dzień Świstaka</h1>
+                            <!-- Post meta content-->
+                            <div class="text-muted fst-italic mb-2">Premiera: 12 luty 1993</div>
+                            <!-- Post categories-->
+                            <a class="badge bg-secondary text-decoration-none link-light" href="#!" onclick="z_cat('k2')">Komedia </a>
+                        </header>
+                        <!-- Preview image figure-->
+<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="zdjęcia/swistak/swistak2.jpg" width="900" height="500" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="zdjęcia/swistak/swistak3.jpg" width="900" height="500" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="zdjęcia/swistak/swistak4.jpg" width="900" height="500" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+                        <!-- Post content-->
+                        <section class="mb-5">
+                            <p class="fs-5 mb-4">W przypadku "Dnia świstaka" takie krążenie wokół filmu jest zupełnie niepotrzebne, gdyż sam utwór, pomimo swojego pozornie lekkiego, komediowego charakteru, jest dziełem tak zasobnym w rozmaitego rodzaju emocje i spostrzeżenia, że nie sposób jest zawrzeć w średniej długości recenzji wszystkich myśli nasuwających się podczas oglądania "Dnia świstaka".</p>
+                            <p class="fs-5 mb-4">Zacznę od kapitalnego, spostrzegawczego humoru, który jest przede wszystkim udziałem jednego aktora – Billa Murraya. Zatrudnienie go do tej roli, było jak, użyję terminologii sportowej, wybranie Michaela Jordana w drafcie przez Chicago Bulls - idealnym rozwiązaniem, nie było lepszego. Nie jest mi znany inny aktor, który by w bardziej błyskotliwy sposób odegrał rolę zgorzkniałego, aroganckiego, z ciętym i złośliwym humorem reportera.</p>
+                            <p class="fs-5 mb-4">A wszystko jest takie naturalne… Humor, którego w filmie jest sporo, wypływa niezwykle swobodnie z wszelkich sytuacji. Śmiejemy się nie dlatego, że scenarzysta wypreparował pewne zdarzenia tylko w celu rozbawienia widza, lecz w wyniku wzbogacenia istotnych scen dla całości przekazu filmowego jakże przenikliwym humorem.</p>
+                            <h2 class="fw-bolder mb-4 mt-5">Obsada</h2>
+			<p class="row">
+                            <img class="col-4"  src="zdjęcia/swistak/p1.jpg" alt="...">
+			    <img class="col-4" src="zdjęcia/swistak/p2.jpg" alt="...">
+			    <img class="col-4" src="zdjęcia/swistak/p3.jpg" alt="...">
+                        </p>
+			<p class="row">
+			<span class="col-md-4 col-4">Bill Murray</span>
+			<span class="col-md-4 col-4">Andie MacDowell</span>
+			<span class="col-md-4 col-4">Chris Elliott</span></p>
+                        </section>
+                    </article>
+</div>

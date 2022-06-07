@@ -1,0 +1,59 @@
+<div id="zamiana">
+                    <!-- Featured blog post-->
+                    <div class="card mb-4">
+                        <a href="#!"><img class="card-img-top" src="zdjęcia/john/john1.jpg" alt="..." /></a>
+                        <div class="card-body">
+                            <div class="small text-muted">19 wrzesnia 2014</div>
+                            <h2 class="card-title">John Wick</h2>
+                            <p class="card-text">„John Wick” przypomniał nam, że filmy sensacyjne wciąż żyją i mają się całkiem dobrze. Duża w tym zasługa Keanu Reevesa, który idealnie oddaje ducha zmęczonego życiem byłego płatnego zabójcy. Po śmierci żony wycofuje się z branży, a jedyną pamiątką, którą ma po niej jest pies. Gdy syn rosyjskiego mafiosa zabija go, John Wick wraca do gry.</p>
+                            <a class="btn btn-primary" id="s20" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                        </div>
+                    </div>
+                    <!-- Nested row for non-featured blog posts-->
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <!-- Blog post-->
+                            <div class="card mb-4">
+                                <a href="#!"><img class="card-img-top" src="zdjęcia/olimp/olimp1.jpg" alt="..." /></a>
+                                <div class="card-body">
+                                    <div class="small text-muted">18 marca 2013</div>
+                                    <h2 class="card-title h4">Olimp w ogniu</h2>
+                                    <p class="card-text">Kiedy terroryści przejmują kontrolę nad Białym Domem, biorąc prezydenta Stanów Zjednoczonych jako zakładnika i wprawiając cały kraj w osłupienie, przebywający przypadkowo w pobliżu agent Secret Service staje do samotnej i nierównej walki. Mike Banning to były ochroniarz prezydenta, który kiedyś został odsunięty od służby przy głowie państwa i oddelegowany do znacznie mniej istotnych zajęć.</p>
+                                    <a class="btn btn-primary" id="s21" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                                </div>
+                            </div>
+                            <!-- Blog post-->
+                            <div class="card mb-4">
+                                <a href="#!"><img class="card-img-top" src="zdjęcia/niezniszczalni/niezniszczalni1.jpg" alt="..." /></a>
+                                <div class="card-body">
+                                    <div class="small text-muted">3 sierpnia 2010</div>
+                                    <h2 class="card-title h4">Niezniszczalni</h2>
+                                    <p class="card-text">Grupa najbardziej niebezpiecznych i wysoko wyspecjalizowanych najemników wyrusza z misją, której nikt inny nie odważył się przyjąć. Muszą zlikwidować latynoskiego dyktatora, który od ponad 20 lat znęca się nad swoimi obywatelami i zagraża innym krajom. Po rozpoczęciu misji żołnierze odkrywają, że sprawy wyglądają inaczej, niż się tego spodziewali.</p>
+                                    <a class="btn btn-primary" id="s22" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <!-- Blog post-->
+                            <div class="card mb-4">
+                                <a href="#!"><img class="card-img-top" src="zdjęcia/under/under1.jpg" alt="..." /></a>
+                                <div class="card-body">
+                                    <div class="small text-muted">10 grudnia 2019</div>
+                                    <h2 class="card-title h4">6 Underground</h2>
+                                    <p class="card-text">Najlepsze w byciu martwym jest to, że jesteś… wolny i możesz walczyć ze złem i niesprawiedliwością. Sześciu specjalistów z różnych stron świata, niezrównanych w swoim fachu, zostało wybranych nie tylko z racji swoich wybitnych umiejętności, ale także dlatego, że każdy i każda z nich chce pogrzebać swoją przeszłość, by zmienić przyszłość. Na czele grupy staje enigmatyczny lider, który zrobi absolutnie wszystko, by jego drużyna pozostała anonimowa, ale jej dokonania – wręcz przeciwnie.</p>
+                                    <a class="btn btn-primary" id="s23" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                                </div>
+                            </div>
+                            <!-- Blog post-->
+                            <div class="card mb-4">
+                                <a href="#!"><img class="card-img-top" src="zdjęcia/mission/mission1.jpg" alt="..." /></a>
+                                <div class="card-body">
+                                    <div class="small text-muted">23 lipca 2015</div>
+                                    <h2 class="card-title h4">Mission: Impossible – Rogue Nation</h2>
+                                    <p class="card-text">Po zamknięciu przez CIA ich elitarnej jednostki, agent Ethan Hunt i jego zespół muszą wyjść zwycięsko z wyścigu z czasem i powstrzymać Syndykat – śmiertelnie niebezpieczną organizację byłych agentów, którzy zdradzili swoich dawnych mocodawców. By zapobiec globalnemu zagrożeniu, Ethan musi połączyć siły z nieuchwytną agentką, której lojalność nie jest oczywista.</p>
+                                    <a class="btn btn-primary" id="s24" href="#!" onclick="z_cat(this.id)">Recenzja →</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
